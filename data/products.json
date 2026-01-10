@@ -1,0 +1,5913 @@
+[
+  {
+    "id": "359c0374-d5cc-4a6b-97ef-859bcfbf50cb",
+    "slug": "specialized-align-ii-mips",
+    "sku": "SPEC-ALGN-II-MIPS-001",
+    "name": "Specialized Align II Mips",
+    "brand": "Specialized",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Road",
+    "price": 449.9,
+    "compareAtPrice": 499.0,
+    "currency": "BRL",
+    "shortDescription": "Certified protection, clean styling, and a comfortable fit.",
+    "description": "The Align II MIPS features the Multi-Directional Impact Protection System (MIPS), a patented protection against rotational forces caused by angled impacts.",
+    "features": [
+      "MIPS-equipped",
+      "Tri-Fix web splitter",
+      "4th Dimension Cooling System"
+    ],
+    "sizes": [
+      "S/M",
+      "M/L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Red"
+    ],
+    "specs": {
+      "Weight": "350g",
+      "Safety": "MIPS",
+      "Ventilation": "16 Vents"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Align+II",
+      "gallery": []
+    },
+    "tags": [
+      "protection",
+      "mips",
+      "road"
+    ],
+    "badges": [
+      "Best Seller"
+    ],
+    "rating": 4.8,
+    "reviewCount": 124,
+    "stock": 50,
+    "featured": true,
+    "releaseDate": "2025-10-15"
+  },
+  {
+    "id": "69015090-47cf-4304-9399-c652882a293f",
+    "slug": "prowell-f55r-vortex",
+    "sku": "PROW-F55R-001",
+    "name": "Prowell F55R Vortex",
+    "brand": "Prowell",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "MTB",
+    "price": 289.0,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "Aerodynamic design with Vortex technology.",
+    "description": "The F55R is a high-performance helmet featuring EPU IN-MOLD technology for maximum safety and lightweight construction.",
+    "features": [
+      "Vortex Technology",
+      "EPU In-Mold",
+      "Disc Loc fit system"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Grey/Red",
+      "Blue/Black"
+    ],
+    "specs": {
+      "Weight": "280g",
+      "Technology": "EPU",
+      "Vents": "22"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=F55R",
+      "gallery": []
+    },
+    "tags": [
+      "mtb",
+      "aerodynamic",
+      "safety"
+    ],
+    "badges": [
+      "Value King"
+    ],
+    "rating": 4.5,
+    "reviewCount": 89,
+    "stock": 35,
+    "featured": false,
+    "releaseDate": "2025-08-20"
+  },
+  {
+    "id": "4c2cd777-1392-4242-ba29-7021a998ec3b",
+    "slug": "colnago-gravel-sl-3-0",
+    "sku": "COL-BIK-9215",
+    "name": "Colnago Gravel SL 3",
+    "brand": "Colnago",
+    "productType": "bike",
+    "category": "Bike",
+    "subcategory": "Gravel",
+    "price": 78621.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality gravel designed for maximum performance.",
+    "description": "The Colnago Gravel SL 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Gravel geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "52",
+      "XL",
+      "56"
+    ],
+    "colors": [
+      "Deep Sea Blue",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1090g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Colnago+Gravel",
+      "gallery": []
+    },
+    "tags": [
+      "bike",
+      "gravel",
+      "colnago"
+    ],
+    "badges": [],
+    "rating": 4.2,
+    "reviewCount": 483,
+    "stock": 88,
+    "featured": false,
+    "releaseDate": "2025-07-25"
+  },
+  {
+    "id": "1e9954f8-cac0-4d45-86a0-b1a06307932b",
+    "slug": "oakley-cleaning-pro-7-1",
+    "sku": "OAK-MAI-1228",
+    "name": "Oakley Cleaning Pro 7",
+    "brand": "Oakley",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 216.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Oakley Cleaning Pro 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Raw Carbon",
+      "Gloss White",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8153g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Oakley+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "oakley"
+    ],
+    "badges": [],
+    "rating": 4.2,
+    "reviewCount": 119,
+    "stock": 79,
+    "featured": false,
+    "releaseDate": "2025-09-02"
+  },
+  {
+    "id": "eb6db857-7d44-4afd-993a-2276f0a40782",
+    "slug": "santa-cruz-bags-expert-8-2",
+    "sku": "SAN-ACC-7250",
+    "name": "Santa Cruz Bags Expert 8",
+    "brand": "Santa Cruz",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Bags",
+    "price": 48966.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality bags designed for maximum performance.",
+    "description": "The Santa Cruz Bags Expert 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bags geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3988g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Santa Cruz+Bags",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "bags",
+      "santa cruz"
+    ],
+    "badges": [],
+    "rating": 4.1,
+    "reviewCount": 102,
+    "stock": 3,
+    "featured": false,
+    "releaseDate": "2025-05-01"
+  },
+  {
+    "id": "9fcafa6d-cbcf-4f6d-8b8a-5d892025f906",
+    "slug": "rapha-drivetrain-sl-6-3",
+    "sku": "RAP-COM-3190",
+    "name": "Rapha Drivetrain SL 6",
+    "brand": "Rapha",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Drivetrain",
+    "price": 23806.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality drivetrain designed for maximum performance.",
+    "description": "The Rapha Drivetrain SL 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Drivetrain geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Deep Sea Blue"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6297g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Rapha+Drivetrain",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "drivetrain",
+      "rapha"
+    ],
+    "badges": [],
+    "rating": 5.0,
+    "reviewCount": 332,
+    "stock": 71,
+    "featured": false,
+    "releaseDate": "2025-04-23"
+  },
+  {
+    "id": "0ed9aa3d-5b76-4055-8a04-ca94829b8d87",
+    "slug": "sram-aero-sl-7-4",
+    "sku": "SRA-HEL-9784",
+    "name": "SRAM Aero SL 7",
+    "brand": "SRAM",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Aero",
+    "price": 338.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality aero designed for maximum performance.",
+    "description": "The SRAM Aero SL 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Aero geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "Deep Sea Blue",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2117g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=SRAM+Aero",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "aero",
+      "sram"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 165,
+    "stock": 40,
+    "featured": false,
+    "releaseDate": "2025-11-14"
+  },
+  {
+    "id": "d86799a8-5ab7-4fa6-b329-c2aab98ec401",
+    "slug": "pinarello-road-sl-6-5",
+    "sku": "PIN-SHO-1543",
+    "name": "Pinarello Road SL 6",
+    "brand": "Pinarello",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Road",
+    "price": 33113.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Pinarello Road SL 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "41"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7862g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Road",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "road",
+      "pinarello"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.8,
+    "reviewCount": 231,
+    "stock": 59,
+    "featured": false,
+    "releaseDate": "2025-12-02"
+  },
+  {
+    "id": "294812b5-9b44-4247-a26f-331ed13167f9",
+    "slug": "specialized-computers-team-3-6",
+    "sku": "SPE-ACC-8699",
+    "name": "Specialized Computers Team 3",
+    "brand": "Specialized",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Computers",
+    "price": 4614.9,
+    "compareAtPrice": 5537.88,
+    "currency": "BRL",
+    "shortDescription": "High-quality computers designed for maximum performance.",
+    "description": "The Specialized Computers Team 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Computers geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Raw Carbon",
+      "Matte Black",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2191g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Specialized+Computers",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "computers",
+      "specialized"
+    ],
+    "badges": [],
+    "rating": 4.0,
+    "reviewCount": 64,
+    "stock": 53,
+    "featured": true,
+    "releaseDate": "2025-05-09"
+  },
+  {
+    "id": "95f8ddc1-6e7e-4497-9747-074b2ba2780e",
+    "slug": "shimano-lubricants-elite-6-7",
+    "sku": "SHI-MAI-6938",
+    "name": "Shimano Lubricants Elite 6",
+    "brand": "Shimano",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Lubricants",
+    "price": 83.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality lubricants designed for maximum performance.",
+    "description": "The Shimano Lubricants Elite 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Lubricants geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "5296g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Shimano+Lubricants",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "lubricants",
+      "shimano"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 178,
+    "stock": 76,
+    "featured": false,
+    "releaseDate": "2025-06-09"
+  },
+  {
+    "id": "36e17e0a-69bc-443a-bc75-df77c7df647d",
+    "slug": "pinarello-jackets-series-9-8",
+    "sku": "PIN-APP-6591",
+    "name": "Pinarello Jackets Series 9",
+    "brand": "Pinarello",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Jackets",
+    "price": 29098.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality jackets designed for maximum performance.",
+    "description": "The Pinarello Jackets Series 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Jackets geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L",
+      "S",
+      "XL",
+      "XXL",
+      "XS"
+    ],
+    "colors": [
+      "Gloss White",
+      "Forest Green",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7614g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Jackets",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "jackets",
+      "pinarello"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 407,
+    "stock": 84,
+    "featured": false,
+    "releaseDate": "2025-01-05"
+  },
+  {
+    "id": "bc3d8f64-f013-4930-86ff-2c380bb9e498",
+    "slug": "oakley-triathlon-expert-5-9",
+    "sku": "OAK-SHO-1604",
+    "name": "Oakley Triathlon Expert 5",
+    "brand": "Oakley",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Triathlon",
+    "price": 32163.9,
+    "compareAtPrice": 38596.68,
+    "currency": "BRL",
+    "shortDescription": "High-quality triathlon designed for maximum performance.",
+    "description": "The Oakley Triathlon Expert 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Triathlon geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "41",
+      "44"
+    ],
+    "colors": [
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4625g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Oakley+Triathlon",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "triathlon",
+      "oakley"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.6,
+    "reviewCount": 208,
+    "stock": 30,
+    "featured": false,
+    "releaseDate": "2025-10-09"
+  },
+  {
+    "id": "b7d06a22-4cc6-4e24-8f3d-dc5e7994891a",
+    "slug": "giro-lights-sl-9-10",
+    "sku": "GIR-ACC-1293",
+    "name": "Giro Lights SL 9",
+    "brand": "Giro",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Lights",
+    "price": 14256.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality lights designed for maximum performance.",
+    "description": "The Giro Lights SL 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Lights geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8932g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giro+Lights",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "lights",
+      "giro"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 402,
+    "stock": 62,
+    "featured": false,
+    "releaseDate": "2025-01-21"
+  },
+  {
+    "id": "368daaf0-e98b-4393-abc9-2153bbc4edf1",
+    "slug": "oakley-pedals-elite-8-11",
+    "sku": "OAK-COM-7494",
+    "name": "Oakley Pedals Elite 8",
+    "brand": "Oakley",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Pedals",
+    "price": 27543.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality pedals designed for maximum performance.",
+    "description": "The Oakley Pedals Elite 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Pedals geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "9979g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Oakley+Pedals",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "pedals",
+      "oakley"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 245,
+    "stock": 47,
+    "featured": true,
+    "releaseDate": "2025-11-14"
+  },
+  {
+    "id": "1cfe6689-1283-427b-be53-50a1ed5bebec",
+    "slug": "oakley-mtb-team-8-12",
+    "sku": "OAK-SHO-9402",
+    "name": "Oakley MTB Team 8",
+    "brand": "Oakley",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "MTB",
+    "price": 20187.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality mtb designed for maximum performance.",
+    "description": "The Oakley MTB Team 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced MTB geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "40",
+      "42",
+      "41"
+    ],
+    "colors": [
+      "Forest Green",
+      "Deep Sea Blue",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1712g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Oakley+MTB",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "mtb",
+      "oakley"
+    ],
+    "badges": [],
+    "rating": 5.0,
+    "reviewCount": 404,
+    "stock": 66,
+    "featured": false,
+    "releaseDate": "2025-06-02"
+  },
+  {
+    "id": "451f69d8-42f5-4500-bb57-28ebb55b7a2c",
+    "slug": "cervélo-road-sl-3-13",
+    "sku": "CER-SHO-9048",
+    "name": "Cervélo Road SL 3",
+    "brand": "Cervélo",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Road",
+    "price": 7940.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Cervélo Road SL 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "42",
+      "41"
+    ],
+    "colors": [
+      "Gloss White",
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6952g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cervélo+Road",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "road",
+      "cervélo"
+    ],
+    "badges": [],
+    "rating": 5.0,
+    "reviewCount": 462,
+    "stock": 58,
+    "featured": false,
+    "releaseDate": "2025-03-12"
+  },
+  {
+    "id": "5f0932ca-0e5f-4105-9711-4049333a9f51",
+    "slug": "specialized-tools-expert-9-14",
+    "sku": "SPE-MAI-7588",
+    "name": "Specialized Tools Expert 9",
+    "brand": "Specialized",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Tools",
+    "price": 221.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality tools designed for maximum performance.",
+    "description": "The Specialized Tools Expert 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Tools geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Matte Black",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "9550g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Specialized+Tools",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "tools",
+      "specialized"
+    ],
+    "badges": [],
+    "rating": 4.8,
+    "reviewCount": 467,
+    "stock": 95,
+    "featured": false,
+    "releaseDate": "2025-11-03"
+  },
+  {
+    "id": "aad64a41-f556-4fe4-8a34-218cb3efcfed",
+    "slug": "oakley-computers-pro-1-15",
+    "sku": "OAK-ACC-6984",
+    "name": "Oakley Computers Pro 1",
+    "brand": "Oakley",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Computers",
+    "price": 31105.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality computers designed for maximum performance.",
+    "description": "The Oakley Computers Pro 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Computers geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1188g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Oakley+Computers",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "computers",
+      "oakley"
+    ],
+    "badges": [],
+    "rating": 4.5,
+    "reviewCount": 37,
+    "stock": 98,
+    "featured": false,
+    "releaseDate": "2025-05-22"
+  },
+  {
+    "id": "48688dda-5659-4368-b88f-208c26066f0d",
+    "slug": "bianchi-bottles-s-works-2-16",
+    "sku": "BIA-ACC-5741",
+    "name": "Bianchi Bottles S-Works 2",
+    "brand": "Bianchi",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Bottles",
+    "price": 22460.9,
+    "compareAtPrice": 26953.08,
+    "currency": "BRL",
+    "shortDescription": "High-quality bottles designed for maximum performance.",
+    "description": "The Bianchi Bottles S-Works 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bottles geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Gloss White",
+      "Deep Sea Blue",
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1167g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Bianchi+Bottles",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "bottles",
+      "bianchi"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 172,
+    "stock": 56,
+    "featured": true,
+    "releaseDate": "2025-05-13"
+  },
+  {
+    "id": "9eb6181c-f373-4000-9b8a-d71e3cdbce1f",
+    "slug": "oakley-mountain-sl-6-17",
+    "sku": "OAK-BIK-8891",
+    "name": "Oakley Mountain SL 6",
+    "brand": "Oakley",
+    "productType": "bike",
+    "category": "Bike",
+    "subcategory": "Mountain",
+    "price": 46996.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality mountain designed for maximum performance.",
+    "description": "The Oakley Mountain SL 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Mountain geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "61",
+      "58",
+      "52",
+      "49"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7633g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Oakley+Mountain",
+      "gallery": []
+    },
+    "tags": [
+      "bike",
+      "mountain",
+      "oakley"
+    ],
+    "badges": [],
+    "rating": 4.9,
+    "reviewCount": 29,
+    "stock": 2,
+    "featured": false,
+    "releaseDate": "2025-05-03"
+  },
+  {
+    "id": "e2b6fe1b-210e-49ae-9a26-95f110104c07",
+    "slug": "giant-aero-sl-5-18",
+    "sku": "GIA-HEL-7415",
+    "name": "Giant Aero SL 5",
+    "brand": "Giant",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Aero",
+    "price": 588.9,
+    "compareAtPrice": 706.68,
+    "currency": "BRL",
+    "shortDescription": "High-quality aero designed for maximum performance.",
+    "description": "The Giant Aero SL 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Aero geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "9849g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Aero",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "aero",
+      "giant"
+    ],
+    "badges": [],
+    "rating": 4.9,
+    "reviewCount": 270,
+    "stock": 90,
+    "featured": false,
+    "releaseDate": "2025-09-27"
+  },
+  {
+    "id": "e969daca-9bb1-4869-a1bb-eb944ab8101e",
+    "slug": "giant-road-expert-7-19",
+    "sku": "GIA-SHO-2987",
+    "name": "Giant Road Expert 7",
+    "brand": "Giant",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Road",
+    "price": 27613.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Giant Road Expert 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "44",
+      "42",
+      "45"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "226g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Road",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "road",
+      "giant"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.7,
+    "reviewCount": 295,
+    "stock": 13,
+    "featured": false,
+    "releaseDate": "2025-06-12"
+  },
+  {
+    "id": "15f4d321-0c4e-4cab-b43c-4561021899d3",
+    "slug": "cervélo-wheelsets-s-works-9-20",
+    "sku": "CER-COM-5407",
+    "name": "Cervélo Wheelsets S-Works 9",
+    "brand": "Cervélo",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Wheelsets",
+    "price": 40604.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality wheelsets designed for maximum performance.",
+    "description": "The Cervélo Wheelsets S-Works 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Wheelsets geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4862g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cervélo+Wheelsets",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "wheelsets",
+      "cervélo"
+    ],
+    "badges": [],
+    "rating": 4.0,
+    "reviewCount": 399,
+    "stock": 32,
+    "featured": false,
+    "releaseDate": "2025-10-20"
+  },
+  {
+    "id": "b65246fb-17ef-48a8-8146-4ad2be5cb5c1",
+    "slug": "cannondale-mountain-sl-1-21",
+    "sku": "CAN-BIK-9036",
+    "name": "Cannondale Mountain SL 1",
+    "brand": "Cannondale",
+    "productType": "bike",
+    "category": "Bike",
+    "subcategory": "Mountain",
+    "price": 66920.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality mountain designed for maximum performance.",
+    "description": "The Cannondale Mountain SL 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Mountain geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "49",
+      "58",
+      "54",
+      "M",
+      "52"
+    ],
+    "colors": [
+      "Forest Green",
+      "Stealth Grey",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1340g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cannondale+Mountain",
+      "gallery": []
+    },
+    "tags": [
+      "bike",
+      "mountain",
+      "cannondale"
+    ],
+    "badges": [],
+    "rating": 4.4,
+    "reviewCount": 254,
+    "stock": 52,
+    "featured": false,
+    "releaseDate": "2025-02-13"
+  },
+  {
+    "id": "2b82c53c-47b9-4972-897a-d933fa29ebe6",
+    "slug": "colnago-road-pro-4-22",
+    "sku": "COL-BIK-1860",
+    "name": "Colnago Road Pro 4",
+    "brand": "Colnago",
+    "productType": "bike",
+    "category": "Bike",
+    "subcategory": "Road",
+    "price": 17457.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Colnago Road Pro 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "58"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Matte Black",
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6592g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Colnago+Road",
+      "gallery": []
+    },
+    "tags": [
+      "bike",
+      "road",
+      "colnago"
+    ],
+    "badges": [],
+    "rating": 4.4,
+    "reviewCount": 190,
+    "stock": 9,
+    "featured": false,
+    "releaseDate": "2025-10-04"
+  },
+  {
+    "id": "56b6359c-babb-41e0-85f9-df08a2bafb08",
+    "slug": "giant-bags-sl-5-23",
+    "sku": "GIA-ACC-8409",
+    "name": "Giant Bags SL 5",
+    "brand": "Giant",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Bags",
+    "price": 29526.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality bags designed for maximum performance.",
+    "description": "The Giant Bags SL 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bags geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "5712g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Bags",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "bags",
+      "giant"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.2,
+    "reviewCount": 68,
+    "stock": 3,
+    "featured": true,
+    "releaseDate": "2025-06-14"
+  },
+  {
+    "id": "83e8a419-9c9d-4411-8d9e-c3182cbd9d74",
+    "slug": "castelli-bib-shorts-sl-4-24",
+    "sku": "CAS-APP-9406",
+    "name": "Castelli Bib Shorts SL 4",
+    "brand": "Castelli",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Bib Shorts",
+    "price": 25831.9,
+    "compareAtPrice": 30998.28,
+    "currency": "BRL",
+    "shortDescription": "High-quality bib shorts designed for maximum performance.",
+    "description": "The Castelli Bib Shorts SL 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bib Shorts geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XS"
+    ],
+    "colors": [
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3522g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Castelli+Bib Shorts",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "bib shorts",
+      "castelli"
+    ],
+    "badges": [],
+    "rating": 4.1,
+    "reviewCount": 226,
+    "stock": 63,
+    "featured": false,
+    "releaseDate": "2025-07-10"
+  },
+  {
+    "id": "f8f127f9-7839-47b5-ab1d-2431ab7f1f55",
+    "slug": "cannondale-tools-s-works-6-25",
+    "sku": "CAN-MAI-8377",
+    "name": "Cannondale Tools S-Works 6",
+    "brand": "Cannondale",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Tools",
+    "price": 250.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality tools designed for maximum performance.",
+    "description": "The Cannondale Tools S-Works 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Tools geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Electric Red",
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6884g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cannondale+Tools",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "tools",
+      "cannondale"
+    ],
+    "badges": [],
+    "rating": 4.3,
+    "reviewCount": 442,
+    "stock": 6,
+    "featured": false,
+    "releaseDate": "2025-10-25"
+  },
+  {
+    "id": "e9c3125b-4a16-4af8-a800-59abb09ab570",
+    "slug": "cannondale-road-sl-8-26",
+    "sku": "CAN-SHO-1063",
+    "name": "Cannondale Road SL 8",
+    "brand": "Cannondale",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Road",
+    "price": 22551.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Cannondale Road SL 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "39",
+      "45"
+    ],
+    "colors": [
+      "Deep Sea Blue",
+      "Stealth Grey",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3090g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cannondale+Road",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "road",
+      "cannondale"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 354,
+    "stock": 70,
+    "featured": false,
+    "releaseDate": "2025-09-07"
+  },
+  {
+    "id": "3dd9cef0-20c3-4c7d-b544-c00c71b7bd19",
+    "slug": "giant-road-series-8-27",
+    "sku": "GIA-SHO-3575",
+    "name": "Giant Road Series 8",
+    "brand": "Giant",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Road",
+    "price": 23975.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Giant Road Series 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "40",
+      "44"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Electric Red",
+      "Deep Sea Blue"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7137g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Road",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "road",
+      "giant"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 342,
+    "stock": 79,
+    "featured": false,
+    "releaseDate": "2025-11-05"
+  },
+  {
+    "id": "e8c3afbd-6cd7-4f76-8f36-05c813b0a388",
+    "slug": "trek-computers-team-4-28",
+    "sku": "TRE-ACC-7341",
+    "name": "Trek Computers Team 4",
+    "brand": "Trek",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Computers",
+    "price": 3519.9,
+    "compareAtPrice": 4223.88,
+    "currency": "BRL",
+    "shortDescription": "High-quality computers designed for maximum performance.",
+    "description": "The Trek Computers Team 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Computers geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Deep Sea Blue",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8731g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Trek+Computers",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "computers",
+      "trek"
+    ],
+    "badges": [],
+    "rating": 4.8,
+    "reviewCount": 183,
+    "stock": 78,
+    "featured": false,
+    "releaseDate": "2025-08-17"
+  },
+  {
+    "id": "bbf8e6c3-28a1-40c1-aff4-1d46e242624f",
+    "slug": "castelli-drivetrain-team-5-29",
+    "sku": "CAS-COM-2469",
+    "name": "Castelli Drivetrain Team 5",
+    "brand": "Castelli",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Drivetrain",
+    "price": 19313.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality drivetrain designed for maximum performance.",
+    "description": "The Castelli Drivetrain Team 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Drivetrain geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3368g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Castelli+Drivetrain",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "drivetrain",
+      "castelli"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 161,
+    "stock": 69,
+    "featured": false,
+    "releaseDate": "2025-12-23"
+  },
+  {
+    "id": "40e1af82-eea5-4225-abc0-608198e37f34",
+    "slug": "giro-wheelsets-pro-1-30",
+    "sku": "GIR-COM-5276",
+    "name": "Giro Wheelsets Pro 1",
+    "brand": "Giro",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Wheelsets",
+    "price": 38735.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality wheelsets designed for maximum performance.",
+    "description": "The Giro Wheelsets Pro 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Wheelsets geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Matte Black",
+      "Deep Sea Blue",
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "841g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giro+Wheelsets",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "wheelsets",
+      "giro"
+    ],
+    "badges": [],
+    "rating": 4.1,
+    "reviewCount": 404,
+    "stock": 80,
+    "featured": false,
+    "releaseDate": "2025-02-25"
+  },
+  {
+    "id": "ec0378ec-d618-4ae5-bf28-edd8e6011366",
+    "slug": "giant-road-elite-3-31",
+    "sku": "GIA-HEL-7714",
+    "name": "Giant Road Elite 3",
+    "brand": "Giant",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Road",
+    "price": 597.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Giant Road Elite 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3214g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Road",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "road",
+      "giant"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.6,
+    "reviewCount": 185,
+    "stock": 29,
+    "featured": false,
+    "releaseDate": "2025-08-18"
+  },
+  {
+    "id": "bfc4e3d8-3122-48ce-ba67-147da6fb628b",
+    "slug": "scott-cleaning-elite-1-32",
+    "sku": "SCO-MAI-7195",
+    "name": "Scott Cleaning Elite 1",
+    "brand": "Scott",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 70.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Scott Cleaning Elite 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Matte Black",
+      "Stealth Grey",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "299g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Scott+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "scott"
+    ],
+    "badges": [],
+    "rating": 4.5,
+    "reviewCount": 144,
+    "stock": 72,
+    "featured": false,
+    "releaseDate": "2025-04-17"
+  },
+  {
+    "id": "94dbc47f-2bee-435c-8975-783e6c74c557",
+    "slug": "giant-tools-expert-2-33",
+    "sku": "GIA-MAI-9837",
+    "name": "Giant Tools Expert 2",
+    "brand": "Giant",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Tools",
+    "price": 163.9,
+    "compareAtPrice": 196.68,
+    "currency": "BRL",
+    "shortDescription": "High-quality tools designed for maximum performance.",
+    "description": "The Giant Tools Expert 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Tools geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3223g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Tools",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "tools",
+      "giant"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 49,
+    "stock": 96,
+    "featured": false,
+    "releaseDate": "2025-10-25"
+  },
+  {
+    "id": "9b9c6ee4-0b3c-4040-972b-7197c85b1f40",
+    "slug": "santa-cruz-cleaning-expert-5-34",
+    "sku": "SAN-MAI-5891",
+    "name": "Santa Cruz Cleaning Expert 5",
+    "brand": "Santa Cruz",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 123.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Santa Cruz Cleaning Expert 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Electric Red",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6097g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Santa Cruz+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "santa cruz"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.4,
+    "reviewCount": 28,
+    "stock": 95,
+    "featured": false,
+    "releaseDate": "2025-10-16"
+  },
+  {
+    "id": "ffb30d53-db1c-4e90-98dd-dea299d64f02",
+    "slug": "sram-wheelsets-series-8-35",
+    "sku": "SRA-COM-2526",
+    "name": "SRAM Wheelsets Series 8",
+    "brand": "SRAM",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Wheelsets",
+    "price": 3497.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality wheelsets designed for maximum performance.",
+    "description": "The SRAM Wheelsets Series 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Wheelsets geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Raw Carbon",
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4176g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=SRAM+Wheelsets",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "wheelsets",
+      "sram"
+    ],
+    "badges": [],
+    "rating": 4.3,
+    "reviewCount": 11,
+    "stock": 94,
+    "featured": false,
+    "releaseDate": "2025-02-21"
+  },
+  {
+    "id": "fa44711a-2b0e-46b2-9b0c-51aca52798dc",
+    "slug": "castelli-aero-team-2-36",
+    "sku": "CAS-HEL-8240",
+    "name": "Castelli Aero Team 2",
+    "brand": "Castelli",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Aero",
+    "price": 804.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality aero designed for maximum performance.",
+    "description": "The Castelli Aero Team 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Aero geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "colors": [
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4057g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Castelli+Aero",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "aero",
+      "castelli"
+    ],
+    "badges": [],
+    "rating": 4.3,
+    "reviewCount": 4,
+    "stock": 3,
+    "featured": false,
+    "releaseDate": "2025-08-28"
+  },
+  {
+    "id": "7eeedee7-803f-4323-9f07-3d8f717501d9",
+    "slug": "castelli-cleaning-team-8-37",
+    "sku": "CAS-MAI-4497",
+    "name": "Castelli Cleaning Team 8",
+    "brand": "Castelli",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 73.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Castelli Cleaning Team 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Raw Carbon",
+      "Electric Red",
+      "Deep Sea Blue"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3458g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Castelli+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "castelli"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 44,
+    "stock": 73,
+    "featured": false,
+    "releaseDate": "2025-07-16"
+  },
+  {
+    "id": "e546660a-0dbc-454c-bdd6-4ec4aeebd8d3",
+    "slug": "prowell-computers-elite-9-38",
+    "sku": "PRO-ACC-1481",
+    "name": "Prowell Computers Elite 9",
+    "brand": "Prowell",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Computers",
+    "price": 15235.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality computers designed for maximum performance.",
+    "description": "The Prowell Computers Elite 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Computers geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8014g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Prowell+Computers",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "computers",
+      "prowell"
+    ],
+    "badges": [],
+    "rating": 4.0,
+    "reviewCount": 126,
+    "stock": 9,
+    "featured": false,
+    "releaseDate": "2025-04-28"
+  },
+  {
+    "id": "c5734d46-637a-4b0d-83fd-24477eab373c",
+    "slug": "prowell-cleaning-expert-9-39",
+    "sku": "PRO-MAI-8395",
+    "name": "Prowell Cleaning Expert 9",
+    "brand": "Prowell",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 105.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Prowell Cleaning Expert 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Gloss White",
+      "Stealth Grey",
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1196g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Prowell+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "prowell"
+    ],
+    "badges": [],
+    "rating": 4.4,
+    "reviewCount": 319,
+    "stock": 94,
+    "featured": false,
+    "releaseDate": "2025-01-09"
+  },
+  {
+    "id": "25bde8e3-b466-42bd-b10e-37213ffa2c74",
+    "slug": "giant-aero-series-3-40",
+    "sku": "GIA-HEL-2760",
+    "name": "Giant Aero Series 3",
+    "brand": "Giant",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Aero",
+    "price": 311.9,
+    "compareAtPrice": 374.28,
+    "currency": "BRL",
+    "shortDescription": "High-quality aero designed for maximum performance.",
+    "description": "The Giant Aero Series 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Aero geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Electric Red",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4611g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Aero",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "aero",
+      "giant"
+    ],
+    "badges": [],
+    "rating": 4.8,
+    "reviewCount": 456,
+    "stock": 83,
+    "featured": true,
+    "releaseDate": "2025-08-28"
+  },
+  {
+    "id": "ab969a07-031d-4777-b994-d25d6068587a",
+    "slug": "colnago-jerseys-team-7-41",
+    "sku": "COL-APP-9745",
+    "name": "Colnago Jerseys Team 7",
+    "brand": "Colnago",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Jerseys",
+    "price": 11324.9,
+    "compareAtPrice": 13589.88,
+    "currency": "BRL",
+    "shortDescription": "High-quality jerseys designed for maximum performance.",
+    "description": "The Colnago Jerseys Team 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Jerseys geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "XXL",
+      "XS",
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Forest Green",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6987g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Colnago+Jerseys",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "jerseys",
+      "colnago"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "stock": 21,
+    "featured": false,
+    "releaseDate": "2025-01-23"
+  },
+  {
+    "id": "e932e9d5-7d2d-41b7-9bd1-5ee51fd12b11",
+    "slug": "sram-road-expert-6-42",
+    "sku": "SRA-HEL-9449",
+    "name": "SRAM Road Expert 6",
+    "brand": "SRAM",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Road",
+    "price": 954.9,
+    "compareAtPrice": 1145.88,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The SRAM Road Expert 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Electric Red",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7941g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=SRAM+Road",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "road",
+      "sram"
+    ],
+    "badges": [],
+    "rating": 4.8,
+    "reviewCount": 358,
+    "stock": 21,
+    "featured": false,
+    "releaseDate": "2025-03-13"
+  },
+  {
+    "id": "604fc55e-3dd3-4f75-9bd0-bfb54b41f5e5",
+    "slug": "rapha-lubricants-team-9-43",
+    "sku": "RAP-MAI-5667",
+    "name": "Rapha Lubricants Team 9",
+    "brand": "Rapha",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Lubricants",
+    "price": 89.9,
+    "compareAtPrice": 107.88,
+    "currency": "BRL",
+    "shortDescription": "High-quality lubricants designed for maximum performance.",
+    "description": "The Rapha Lubricants Team 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Lubricants geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Stealth Grey",
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "5545g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Rapha+Lubricants",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "lubricants",
+      "rapha"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 21,
+    "stock": 17,
+    "featured": false,
+    "releaseDate": "2025-06-09"
+  },
+  {
+    "id": "bc55790e-5184-422c-809f-aa224be146ad",
+    "slug": "santa-cruz-road-expert-8-44",
+    "sku": "SAN-HEL-4227",
+    "name": "Santa Cruz Road Expert 8",
+    "brand": "Santa Cruz",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Road",
+    "price": 980.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Santa Cruz Road Expert 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "Deep Sea Blue"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6871g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Santa Cruz+Road",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "road",
+      "santa cruz"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.4,
+    "reviewCount": 453,
+    "stock": 59,
+    "featured": false,
+    "releaseDate": "2025-07-09"
+  },
+  {
+    "id": "2043b115-0c4f-47e3-a3f7-509b412c4efa",
+    "slug": "cannondale-triathlon-pro-1-45",
+    "sku": "CAN-SHO-7626",
+    "name": "Cannondale Triathlon Pro 1",
+    "brand": "Cannondale",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Triathlon",
+    "price": 33749.9,
+    "compareAtPrice": 40499.88,
+    "currency": "BRL",
+    "shortDescription": "High-quality triathlon designed for maximum performance.",
+    "description": "The Cannondale Triathlon Pro 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Triathlon geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "43",
+      "41",
+      "42",
+      "44"
+    ],
+    "colors": [
+      "Raw Carbon",
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "9892g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cannondale+Triathlon",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "triathlon",
+      "cannondale"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 447,
+    "stock": 44,
+    "featured": false,
+    "releaseDate": "2025-04-05"
+  },
+  {
+    "id": "8592e03c-f97f-4f51-947c-ef9d26379719",
+    "slug": "colnago-gloves-sl-6-46",
+    "sku": "COL-APP-2357",
+    "name": "Colnago Gloves SL 6",
+    "brand": "Colnago",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Gloves",
+    "price": 2968.9,
+    "compareAtPrice": 3562.68,
+    "currency": "BRL",
+    "shortDescription": "High-quality gloves designed for maximum performance.",
+    "description": "The Colnago Gloves SL 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Gloves geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Electric Red",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "9036g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Colnago+Gloves",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "gloves",
+      "colnago"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 59,
+    "stock": 37,
+    "featured": false,
+    "releaseDate": "2025-01-01"
+  },
+  {
+    "id": "707d379c-9eeb-4b0e-971d-bd8bbba72193",
+    "slug": "scott-cleaning-expert-3-47",
+    "sku": "SCO-MAI-8832",
+    "name": "Scott Cleaning Expert 3",
+    "brand": "Scott",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 213.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Scott Cleaning Expert 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2408g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Scott+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "scott"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.9,
+    "reviewCount": 475,
+    "stock": 22,
+    "featured": false,
+    "releaseDate": "2025-11-08"
+  },
+  {
+    "id": "0e7d24ff-49e2-4c7a-8cab-ea1b0da63a0f",
+    "slug": "prowell-road-pro-3-48",
+    "sku": "PRO-HEL-2199",
+    "name": "Prowell Road Pro 3",
+    "brand": "Prowell",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Road",
+    "price": 2099.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Prowell Road Pro 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8427g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Prowell+Road",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "road",
+      "prowell"
+    ],
+    "badges": [],
+    "rating": 4.2,
+    "reviewCount": 437,
+    "stock": 88,
+    "featured": false,
+    "releaseDate": "2025-01-07"
+  },
+  {
+    "id": "f66ac356-a7d5-4540-82b8-21502636f4d0",
+    "slug": "specialized-gravel-sl-5-49",
+    "sku": "SPE-BIK-9833",
+    "name": "Specialized Gravel SL 5",
+    "brand": "Specialized",
+    "productType": "bike",
+    "category": "Bike",
+    "subcategory": "Gravel",
+    "price": 51118.9,
+    "compareAtPrice": 61342.68,
+    "currency": "BRL",
+    "shortDescription": "High-quality gravel designed for maximum performance.",
+    "description": "The Specialized Gravel SL 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Gravel geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "49"
+    ],
+    "colors": [
+      "Electric Red",
+      "Deep Sea Blue",
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "380g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Specialized+Gravel",
+      "gallery": []
+    },
+    "tags": [
+      "bike",
+      "gravel",
+      "specialized"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 394,
+    "stock": 49,
+    "featured": false,
+    "releaseDate": "2025-05-02"
+  },
+  {
+    "id": "1d6e6342-7f95-4a36-aaa3-6c0d3f83f2a7",
+    "slug": "specialized-handlebars-sl-6-50",
+    "sku": "SPE-COM-8872",
+    "name": "Specialized Handlebars SL 6",
+    "brand": "Specialized",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Handlebars",
+    "price": 42337.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality handlebars designed for maximum performance.",
+    "description": "The Specialized Handlebars SL 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Handlebars geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7055g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Specialized+Handlebars",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "handlebars",
+      "specialized"
+    ],
+    "badges": [],
+    "rating": 4.4,
+    "reviewCount": 351,
+    "stock": 77,
+    "featured": true,
+    "releaseDate": "2025-06-20"
+  },
+  {
+    "id": "6f49e957-c066-4f46-9ca3-eb9877d1f350",
+    "slug": "pinarello-lubricants-s-works-1-51",
+    "sku": "PIN-MAI-1438",
+    "name": "Pinarello Lubricants S-Works 1",
+    "brand": "Pinarello",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Lubricants",
+    "price": 184.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality lubricants designed for maximum performance.",
+    "description": "The Pinarello Lubricants S-Works 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Lubricants geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1491g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Lubricants",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "lubricants",
+      "pinarello"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 66,
+    "stock": 35,
+    "featured": false,
+    "releaseDate": "2025-01-11"
+  },
+  {
+    "id": "fc9671e1-b778-49c0-a145-bbe34482579d",
+    "slug": "oakley-handlebars-series-7-52",
+    "sku": "OAK-COM-8275",
+    "name": "Oakley Handlebars Series 7",
+    "brand": "Oakley",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Handlebars",
+    "price": 18051.9,
+    "compareAtPrice": 21662.28,
+    "currency": "BRL",
+    "shortDescription": "High-quality handlebars designed for maximum performance.",
+    "description": "The Oakley Handlebars Series 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Handlebars geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Electric Red",
+      "Forest Green",
+      "Deep Sea Blue"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3078g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Oakley+Handlebars",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "handlebars",
+      "oakley"
+    ],
+    "badges": [],
+    "rating": 4.0,
+    "reviewCount": 53,
+    "stock": 36,
+    "featured": false,
+    "releaseDate": "2025-09-09"
+  },
+  {
+    "id": "da10b494-1337-482a-94cc-abd56a33a6ba",
+    "slug": "cervélo-mtb-series-2-53",
+    "sku": "CER-SHO-6010",
+    "name": "Cervélo MTB Series 2",
+    "brand": "Cervélo",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "MTB",
+    "price": 17198.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality mtb designed for maximum performance.",
+    "description": "The Cervélo MTB Series 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced MTB geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "41"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Hyper Orange",
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2616g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cervélo+MTB",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "mtb",
+      "cervélo"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.5,
+    "reviewCount": 380,
+    "stock": 18,
+    "featured": false,
+    "releaseDate": "2025-06-20"
+  },
+  {
+    "id": "4168effd-c4c7-4085-b4d6-675fd2cd35b2",
+    "slug": "scott-wheelsets-team-1-54",
+    "sku": "SCO-COM-1036",
+    "name": "Scott Wheelsets Team 1",
+    "brand": "Scott",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Wheelsets",
+    "price": 1038.9,
+    "compareAtPrice": 1246.68,
+    "currency": "BRL",
+    "shortDescription": "High-quality wheelsets designed for maximum performance.",
+    "description": "The Scott Wheelsets Team 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Wheelsets geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Gloss White",
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7219g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Scott+Wheelsets",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "wheelsets",
+      "scott"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.2,
+    "reviewCount": 232,
+    "stock": 5,
+    "featured": false,
+    "releaseDate": "2025-09-15"
+  },
+  {
+    "id": "8412b837-6760-4c5b-b5e9-558aced78dd3",
+    "slug": "prowell-pedals-pro-9-55",
+    "sku": "PRO-COM-6387",
+    "name": "Prowell Pedals Pro 9",
+    "brand": "Prowell",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Pedals",
+    "price": 21022.9,
+    "compareAtPrice": 25227.48,
+    "currency": "BRL",
+    "shortDescription": "High-quality pedals designed for maximum performance.",
+    "description": "The Prowell Pedals Pro 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Pedals geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Electric Red",
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2643g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Prowell+Pedals",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "pedals",
+      "prowell"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.9,
+    "reviewCount": 479,
+    "stock": 40,
+    "featured": false,
+    "releaseDate": "2025-04-03"
+  },
+  {
+    "id": "febf8c12-8022-4b5c-b136-7236546f6324",
+    "slug": "cervélo-cleaning-sl-5-56",
+    "sku": "CER-MAI-5623",
+    "name": "Cervélo Cleaning SL 5",
+    "brand": "Cervélo",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 270.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Cervélo Cleaning SL 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Electric Red",
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6004g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cervélo+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "cervélo"
+    ],
+    "badges": [],
+    "rating": 4.2,
+    "reviewCount": 15,
+    "stock": 59,
+    "featured": false,
+    "releaseDate": "2025-05-06"
+  },
+  {
+    "id": "bb1806b8-1875-49c7-9c43-11c079826021",
+    "slug": "santa-cruz-mtb-pro-1-57",
+    "sku": "SAN-SHO-1575",
+    "name": "Santa Cruz MTB Pro 1",
+    "brand": "Santa Cruz",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "MTB",
+    "price": 20125.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality mtb designed for maximum performance.",
+    "description": "The Santa Cruz MTB Pro 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced MTB geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "42",
+      "39",
+      "40"
+    ],
+    "colors": [
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "354g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Santa Cruz+MTB",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "mtb",
+      "santa cruz"
+    ],
+    "badges": [],
+    "rating": 4.4,
+    "reviewCount": 417,
+    "stock": 31,
+    "featured": false,
+    "releaseDate": "2025-09-10"
+  },
+  {
+    "id": "e771752c-cebc-48de-9fb1-d7f3410493ef",
+    "slug": "giro-gravel-s-works-6-58",
+    "sku": "GIR-BIK-6318",
+    "name": "Giro Gravel S-Works 6",
+    "brand": "Giro",
+    "productType": "bike",
+    "category": "Bike",
+    "subcategory": "Gravel",
+    "price": 29286.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality gravel designed for maximum performance.",
+    "description": "The Giro Gravel S-Works 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Gravel geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Matte Black",
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "9506g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giro+Gravel",
+      "gallery": []
+    },
+    "tags": [
+      "bike",
+      "gravel",
+      "giro"
+    ],
+    "badges": [],
+    "rating": 4.8,
+    "reviewCount": 384,
+    "stock": 90,
+    "featured": false,
+    "releaseDate": "2025-11-21"
+  },
+  {
+    "id": "2135338e-8054-4653-bf91-0b6fe7c3c759",
+    "slug": "specialized-lubricants-team-6-59",
+    "sku": "SPE-MAI-5905",
+    "name": "Specialized Lubricants Team 6",
+    "brand": "Specialized",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Lubricants",
+    "price": 271.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality lubricants designed for maximum performance.",
+    "description": "The Specialized Lubricants Team 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Lubricants geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Deep Sea Blue",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4269g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Specialized+Lubricants",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "lubricants",
+      "specialized"
+    ],
+    "badges": [],
+    "rating": 4.5,
+    "reviewCount": 271,
+    "stock": 96,
+    "featured": false,
+    "releaseDate": "2025-11-12"
+  },
+  {
+    "id": "614a7665-ec95-4a30-8021-41822d99010c",
+    "slug": "cannondale-socks-s-works-3-60",
+    "sku": "CAN-APP-1106",
+    "name": "Cannondale Socks S-Works 3",
+    "brand": "Cannondale",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Socks",
+    "price": 16619.9,
+    "compareAtPrice": 19943.88,
+    "currency": "BRL",
+    "shortDescription": "High-quality socks designed for maximum performance.",
+    "description": "The Cannondale Socks S-Works 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Socks geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S",
+      "XS",
+      "L",
+      "XXL",
+      "XL"
+    ],
+    "colors": [
+      "Matte Black",
+      "Hyper Orange",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2698g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cannondale+Socks",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "socks",
+      "cannondale"
+    ],
+    "badges": [],
+    "rating": 4.1,
+    "reviewCount": 274,
+    "stock": 44,
+    "featured": true,
+    "releaseDate": "2025-11-05"
+  },
+  {
+    "id": "8b30b0d7-e499-46dc-93a5-e34609dc1e80",
+    "slug": "giro-gloves-series-3-61",
+    "sku": "GIR-APP-9190",
+    "name": "Giro Gloves Series 3",
+    "brand": "Giro",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Gloves",
+    "price": 44856.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality gloves designed for maximum performance.",
+    "description": "The Giro Gloves Series 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Gloves geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L",
+      "XXL",
+      "M"
+    ],
+    "colors": [
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "5607g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giro+Gloves",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "gloves",
+      "giro"
+    ],
+    "badges": [],
+    "rating": 5.0,
+    "reviewCount": 287,
+    "stock": 42,
+    "featured": false,
+    "releaseDate": "2025-10-11"
+  },
+  {
+    "id": "8ece2d46-72cb-410f-b448-d291a5d9bca7",
+    "slug": "trek-cleaning-team-1-62",
+    "sku": "TRE-MAI-9900",
+    "name": "Trek Cleaning Team 1",
+    "brand": "Trek",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 191.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Trek Cleaning Team 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Electric Red",
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "5185g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Trek+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "trek"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 427,
+    "stock": 93,
+    "featured": false,
+    "releaseDate": "2025-08-03"
+  },
+  {
+    "id": "7ec83a87-145f-4e76-b62c-48e828ab4d98",
+    "slug": "specialized-jackets-expert-2-63",
+    "sku": "SPE-APP-8869",
+    "name": "Specialized Jackets Expert 2",
+    "brand": "Specialized",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Jackets",
+    "price": 24371.9,
+    "compareAtPrice": 29246.28,
+    "currency": "BRL",
+    "shortDescription": "High-quality jackets designed for maximum performance.",
+    "description": "The Specialized Jackets Expert 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Jackets geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "XL",
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Matte Black",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6770g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Specialized+Jackets",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "jackets",
+      "specialized"
+    ],
+    "badges": [],
+    "rating": 4.2,
+    "reviewCount": 278,
+    "stock": 51,
+    "featured": false,
+    "releaseDate": "2025-05-04"
+  },
+  {
+    "id": "e2013293-86b5-4427-a5df-fa042ef7a56d",
+    "slug": "oakley-socks-team-6-64",
+    "sku": "OAK-APP-8964",
+    "name": "Oakley Socks Team 6",
+    "brand": "Oakley",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Socks",
+    "price": 35777.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality socks designed for maximum performance.",
+    "description": "The Oakley Socks Team 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Socks geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S",
+      "XS"
+    ],
+    "colors": [
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7869g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Oakley+Socks",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "socks",
+      "oakley"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.4,
+    "reviewCount": 40,
+    "stock": 92,
+    "featured": false,
+    "releaseDate": "2025-08-02"
+  },
+  {
+    "id": "0777d831-c3a6-43ba-960b-f54754637575",
+    "slug": "specialized-socks-s-works-1-65",
+    "sku": "SPE-APP-8257",
+    "name": "Specialized Socks S-Works 1",
+    "brand": "Specialized",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Socks",
+    "price": 10611.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality socks designed for maximum performance.",
+    "description": "The Specialized Socks S-Works 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Socks geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L",
+      "XS",
+      "XL",
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6048g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Specialized+Socks",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "socks",
+      "specialized"
+    ],
+    "badges": [],
+    "rating": 4.5,
+    "reviewCount": 238,
+    "stock": 41,
+    "featured": true,
+    "releaseDate": "2025-01-23"
+  },
+  {
+    "id": "7725d834-3f9b-4d51-a4d6-02fa58c8d688",
+    "slug": "castelli-jackets-s-works-4-66",
+    "sku": "CAS-APP-3448",
+    "name": "Castelli Jackets S-Works 4",
+    "brand": "Castelli",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Jackets",
+    "price": 14342.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality jackets designed for maximum performance.",
+    "description": "The Castelli Jackets S-Works 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Jackets geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S",
+      "L",
+      "XL",
+      "M"
+    ],
+    "colors": [
+      "Raw Carbon",
+      "Stealth Grey",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2664g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Castelli+Jackets",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "jackets",
+      "castelli"
+    ],
+    "badges": [],
+    "rating": 4.8,
+    "reviewCount": 23,
+    "stock": 97,
+    "featured": false,
+    "releaseDate": "2025-09-06"
+  },
+  {
+    "id": "b400e4ac-ab07-4237-9dfe-7d5118a11ea0",
+    "slug": "prowell-computers-series-2-67",
+    "sku": "PRO-ACC-2918",
+    "name": "Prowell Computers Series 2",
+    "brand": "Prowell",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Computers",
+    "price": 48827.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality computers designed for maximum performance.",
+    "description": "The Prowell Computers Series 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Computers geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2258g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Prowell+Computers",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "computers",
+      "prowell"
+    ],
+    "badges": [],
+    "rating": 4.0,
+    "reviewCount": 15,
+    "stock": 82,
+    "featured": false,
+    "releaseDate": "2025-01-21"
+  },
+  {
+    "id": "b0789031-1b30-498a-90d3-e0afaa5e0752",
+    "slug": "rapha-road-team-3-68",
+    "sku": "RAP-HEL-4265",
+    "name": "Rapha Road Team 3",
+    "brand": "Rapha",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Road",
+    "price": 919.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Rapha Road Team 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Electric Red",
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7242g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Rapha+Road",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "road",
+      "rapha"
+    ],
+    "badges": [],
+    "rating": 4.3,
+    "reviewCount": 425,
+    "stock": 26,
+    "featured": false,
+    "releaseDate": "2025-09-12"
+  },
+  {
+    "id": "b3da1f4e-5185-4f3b-a691-ff3f743aecc6",
+    "slug": "giro-road-elite-9-69",
+    "sku": "GIR-SHO-5292",
+    "name": "Giro Road Elite 9",
+    "brand": "Giro",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Road",
+    "price": 16190.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Giro Road Elite 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "45",
+      "40"
+    ],
+    "colors": [
+      "Matte Black",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "5365g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giro+Road",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "road",
+      "giro"
+    ],
+    "badges": [],
+    "rating": 4.0,
+    "reviewCount": 233,
+    "stock": 63,
+    "featured": false,
+    "releaseDate": "2025-10-28"
+  },
+  {
+    "id": "c5e07c75-fc8a-4ed6-b9d7-0314de4608b9",
+    "slug": "pinarello-gloves-expert-4-70",
+    "sku": "PIN-APP-8146",
+    "name": "Pinarello Gloves Expert 4",
+    "brand": "Pinarello",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Gloves",
+    "price": 24043.9,
+    "compareAtPrice": 28852.68,
+    "currency": "BRL",
+    "shortDescription": "High-quality gloves designed for maximum performance.",
+    "description": "The Pinarello Gloves Expert 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Gloves geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L",
+      "XS",
+      "S",
+      "M",
+      "XXL"
+    ],
+    "colors": [
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8132g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Gloves",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "gloves",
+      "pinarello"
+    ],
+    "badges": [],
+    "rating": 4.2,
+    "reviewCount": 71,
+    "stock": 64,
+    "featured": false,
+    "releaseDate": "2025-03-19"
+  },
+  {
+    "id": "46d87850-6969-40bb-8a3e-68638d43a6c1",
+    "slug": "giant-urban-elite-5-71",
+    "sku": "GIA-HEL-9048",
+    "name": "Giant Urban Elite 5",
+    "brand": "Giant",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Urban",
+    "price": 1235.9,
+    "compareAtPrice": 1483.08,
+    "currency": "BRL",
+    "shortDescription": "High-quality urban designed for maximum performance.",
+    "description": "The Giant Urban Elite 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Urban geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Forest Green",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6188g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Urban",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "urban",
+      "giant"
+    ],
+    "badges": [],
+    "rating": 4.3,
+    "reviewCount": 146,
+    "stock": 86,
+    "featured": false,
+    "releaseDate": "2025-06-27"
+  },
+  {
+    "id": "f68fa9c5-8180-4a22-99d7-f2dd48e1cd26",
+    "slug": "prowell-wheelsets-sl-8-72",
+    "sku": "PRO-COM-4513",
+    "name": "Prowell Wheelsets SL 8",
+    "brand": "Prowell",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Wheelsets",
+    "price": 8925.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality wheelsets designed for maximum performance.",
+    "description": "The Prowell Wheelsets SL 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Wheelsets geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Forest Green",
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7560g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Prowell+Wheelsets",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "wheelsets",
+      "prowell"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.1,
+    "reviewCount": 186,
+    "stock": 97,
+    "featured": false,
+    "releaseDate": "2025-09-26"
+  },
+  {
+    "id": "18cd6c8e-bf39-4e0a-a91c-8dd6706b7059",
+    "slug": "cannondale-urban-elite-2-73",
+    "sku": "CAN-HEL-9366",
+    "name": "Cannondale Urban Elite 2",
+    "brand": "Cannondale",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Urban",
+    "price": 1440.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality urban designed for maximum performance.",
+    "description": "The Cannondale Urban Elite 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Urban geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2457g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cannondale+Urban",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "urban",
+      "cannondale"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 83,
+    "stock": 13,
+    "featured": false,
+    "releaseDate": "2025-12-10"
+  },
+  {
+    "id": "92e0adb4-e427-46c1-b2f4-fbee7e6705b1",
+    "slug": "pinarello-pedals-sl-1-74",
+    "sku": "PIN-COM-3162",
+    "name": "Pinarello Pedals SL 1",
+    "brand": "Pinarello",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Pedals",
+    "price": 1381.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality pedals designed for maximum performance.",
+    "description": "The Pinarello Pedals SL 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Pedals geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Gloss White",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2817g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Pedals",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "pedals",
+      "pinarello"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 348,
+    "stock": 50,
+    "featured": false,
+    "releaseDate": "2025-04-16"
+  },
+  {
+    "id": "e7daf106-2ec9-4f58-9bf1-2997ab43b989",
+    "slug": "trek-urban-sl-2-75",
+    "sku": "TRE-HEL-9733",
+    "name": "Trek Urban SL 2",
+    "brand": "Trek",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Urban",
+    "price": 1197.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality urban designed for maximum performance.",
+    "description": "The Trek Urban SL 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Urban geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S"
+    ],
+    "colors": [
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "561g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Trek+Urban",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "urban",
+      "trek"
+    ],
+    "badges": [],
+    "rating": 4.9,
+    "reviewCount": 120,
+    "stock": 57,
+    "featured": true,
+    "releaseDate": "2025-01-26"
+  },
+  {
+    "id": "7ce461ac-9cd9-4649-bb84-a526d1b2c746",
+    "slug": "rapha-bags-elite-1-76",
+    "sku": "RAP-ACC-3088",
+    "name": "Rapha Bags Elite 1",
+    "brand": "Rapha",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Bags",
+    "price": 3596.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality bags designed for maximum performance.",
+    "description": "The Rapha Bags Elite 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bags geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Matte Black",
+      "Deep Sea Blue",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8287g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Rapha+Bags",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "bags",
+      "rapha"
+    ],
+    "badges": [],
+    "rating": 4.5,
+    "reviewCount": 431,
+    "stock": 74,
+    "featured": false,
+    "releaseDate": "2025-03-14"
+  },
+  {
+    "id": "83c41b80-3a0a-40b3-8450-cf6cc66fade2",
+    "slug": "scott-cleaning-sl-1-77",
+    "sku": "SCO-MAI-6476",
+    "name": "Scott Cleaning SL 1",
+    "brand": "Scott",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 347.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Scott Cleaning SL 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Electric Red",
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4015g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Scott+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "scott"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.3,
+    "reviewCount": 257,
+    "stock": 96,
+    "featured": false,
+    "releaseDate": "2025-08-17"
+  },
+  {
+    "id": "21d28072-6458-4001-904b-19c37e133b9a",
+    "slug": "cervélo-tools-sl-5-78",
+    "sku": "CER-MAI-4362",
+    "name": "Cervélo Tools SL 5",
+    "brand": "Cervélo",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Tools",
+    "price": 67.9,
+    "compareAtPrice": 81.48,
+    "currency": "BRL",
+    "shortDescription": "High-quality tools designed for maximum performance.",
+    "description": "The Cervélo Tools SL 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Tools geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8648g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cervélo+Tools",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "tools",
+      "cervélo"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 15,
+    "stock": 90,
+    "featured": false,
+    "releaseDate": "2025-08-09"
+  },
+  {
+    "id": "643263fb-3ded-4627-bce8-6c68f206baf7",
+    "slug": "pinarello-lubricants-series-7-79",
+    "sku": "PIN-MAI-5500",
+    "name": "Pinarello Lubricants Series 7",
+    "brand": "Pinarello",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Lubricants",
+    "price": 394.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality lubricants designed for maximum performance.",
+    "description": "The Pinarello Lubricants Series 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Lubricants geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Deep Sea Blue"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "9556g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Lubricants",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "lubricants",
+      "pinarello"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 94,
+    "stock": 65,
+    "featured": false,
+    "releaseDate": "2025-12-12"
+  },
+  {
+    "id": "662ae987-97e7-4a76-9f19-c7d12835e698",
+    "slug": "cervélo-triathlon-expert-7-80",
+    "sku": "CER-SHO-7869",
+    "name": "Cervélo Triathlon Expert 7",
+    "brand": "Cervélo",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Triathlon",
+    "price": 7287.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality triathlon designed for maximum performance.",
+    "description": "The Cervélo Triathlon Expert 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Triathlon geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "45",
+      "40",
+      "38",
+      "43",
+      "44"
+    ],
+    "colors": [
+      "Forest Green",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7945g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cervélo+Triathlon",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "triathlon",
+      "cervélo"
+    ],
+    "badges": [],
+    "rating": 4.5,
+    "reviewCount": 257,
+    "stock": 28,
+    "featured": false,
+    "releaseDate": "2025-12-24"
+  },
+  {
+    "id": "ff97632d-3e66-425c-b2ca-26499ff3c64c",
+    "slug": "scott-gloves-expert-4-81",
+    "sku": "SCO-APP-8093",
+    "name": "Scott Gloves Expert 4",
+    "brand": "Scott",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Gloves",
+    "price": 1668.9,
+    "compareAtPrice": 2002.68,
+    "currency": "BRL",
+    "shortDescription": "High-quality gloves designed for maximum performance.",
+    "description": "The Scott Gloves Expert 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Gloves geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "XS"
+    ],
+    "colors": [
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8560g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Scott+Gloves",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "gloves",
+      "scott"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 213,
+    "stock": 2,
+    "featured": false,
+    "releaseDate": "2025-02-10"
+  },
+  {
+    "id": "0b8d0f06-3f41-4697-be32-52f9d16e43a2",
+    "slug": "giant-triathlon-series-1-82",
+    "sku": "GIA-SHO-3193",
+    "name": "Giant Triathlon Series 1",
+    "brand": "Giant",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Triathlon",
+    "price": 43047.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality triathlon designed for maximum performance.",
+    "description": "The Giant Triathlon Series 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Triathlon geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "45",
+      "39",
+      "40",
+      "38",
+      "42"
+    ],
+    "colors": [
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3398g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Triathlon",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "triathlon",
+      "giant"
+    ],
+    "badges": [],
+    "rating": 4.9,
+    "reviewCount": 453,
+    "stock": 81,
+    "featured": true,
+    "releaseDate": "2025-08-04"
+  },
+  {
+    "id": "1cbeb2a1-b0fa-40e9-a9dc-29a0d744ae04",
+    "slug": "scott-bottles-sl-9-83",
+    "sku": "SCO-ACC-1148",
+    "name": "Scott Bottles SL 9",
+    "brand": "Scott",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Bottles",
+    "price": 32549.9,
+    "compareAtPrice": 39059.88,
+    "currency": "BRL",
+    "shortDescription": "High-quality bottles designed for maximum performance.",
+    "description": "The Scott Bottles SL 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bottles geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "5647g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Scott+Bottles",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "bottles",
+      "scott"
+    ],
+    "badges": [],
+    "rating": 4.5,
+    "reviewCount": 475,
+    "stock": 84,
+    "featured": false,
+    "releaseDate": "2025-09-19"
+  },
+  {
+    "id": "561650ee-8dc7-49e2-9ed3-d8fd162905b8",
+    "slug": "specialized-cleaning-expert-6-84",
+    "sku": "SPE-MAI-6634",
+    "name": "Specialized Cleaning Expert 6",
+    "brand": "Specialized",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 260.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Specialized Cleaning Expert 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Forest Green",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2013g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Specialized+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "specialized"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 50,
+    "stock": 16,
+    "featured": false,
+    "releaseDate": "2025-12-17"
+  },
+  {
+    "id": "0328c0f4-6687-4bbe-97bd-6bfdb6dc627f",
+    "slug": "sram-tools-s-works-4-85",
+    "sku": "SRA-MAI-5775",
+    "name": "SRAM Tools S-Works 4",
+    "brand": "SRAM",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Tools",
+    "price": 209.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality tools designed for maximum performance.",
+    "description": "The SRAM Tools S-Works 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Tools geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Raw Carbon",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4043g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=SRAM+Tools",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "tools",
+      "sram"
+    ],
+    "badges": [],
+    "rating": 4.8,
+    "reviewCount": 168,
+    "stock": 49,
+    "featured": false,
+    "releaseDate": "2025-05-07"
+  },
+  {
+    "id": "7bc3506c-d57b-40b4-864b-55c26f9964ce",
+    "slug": "sram-urban-elite-9-86",
+    "sku": "SRA-HEL-7149",
+    "name": "SRAM Urban Elite 9",
+    "brand": "SRAM",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Urban",
+    "price": 280.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality urban designed for maximum performance.",
+    "description": "The SRAM Urban Elite 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Urban geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S",
+      "L",
+      "M"
+    ],
+    "colors": [
+      "Electric Red",
+      "Matte Black",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "381g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=SRAM+Urban",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "urban",
+      "sram"
+    ],
+    "badges": [],
+    "rating": 5.0,
+    "reviewCount": 73,
+    "stock": 78,
+    "featured": false,
+    "releaseDate": "2025-01-26"
+  },
+  {
+    "id": "9309f2f6-0ffd-4ba0-9349-a3552bdc4a05",
+    "slug": "rapha-tools-s-works-1-87",
+    "sku": "RAP-MAI-8724",
+    "name": "Rapha Tools S-Works 1",
+    "brand": "Rapha",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Tools",
+    "price": 58.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality tools designed for maximum performance.",
+    "description": "The Rapha Tools S-Works 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Tools geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Forest Green",
+      "Raw Carbon",
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6003g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Rapha+Tools",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "tools",
+      "rapha"
+    ],
+    "badges": [],
+    "rating": 4.8,
+    "reviewCount": 340,
+    "stock": 68,
+    "featured": false,
+    "releaseDate": "2025-05-22"
+  },
+  {
+    "id": "917d7087-3dea-4435-819f-9477647e8b5b",
+    "slug": "cannondale-electric-expert-5-88",
+    "sku": "CAN-BIK-9499",
+    "name": "Cannondale Electric Expert 5",
+    "brand": "Cannondale",
+    "productType": "bike",
+    "category": "Bike",
+    "subcategory": "Electric",
+    "price": 28955.9,
+    "compareAtPrice": 34747.08,
+    "currency": "BRL",
+    "shortDescription": "High-quality electric designed for maximum performance.",
+    "description": "The Cannondale Electric Expert 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Electric geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "58",
+      "52",
+      "M",
+      "56",
+      "49"
+    ],
+    "colors": [
+      "Gloss White",
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "5844g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cannondale+Electric",
+      "gallery": []
+    },
+    "tags": [
+      "bike",
+      "electric",
+      "cannondale"
+    ],
+    "badges": [],
+    "rating": 4.3,
+    "reviewCount": 307,
+    "stock": 86,
+    "featured": false,
+    "releaseDate": "2025-04-20"
+  },
+  {
+    "id": "b96eeacd-12ad-47d1-bfed-7fa966b22453",
+    "slug": "cervélo-lights-series-6-89",
+    "sku": "CER-ACC-7443",
+    "name": "Cervélo Lights Series 6",
+    "brand": "Cervélo",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Lights",
+    "price": 18082.9,
+    "compareAtPrice": 21699.48,
+    "currency": "BRL",
+    "shortDescription": "High-quality lights designed for maximum performance.",
+    "description": "The Cervélo Lights Series 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Lights geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Forest Green",
+      "Matte Black",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3895g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cervélo+Lights",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "lights",
+      "cervélo"
+    ],
+    "badges": [],
+    "rating": 4.5,
+    "reviewCount": 11,
+    "stock": 18,
+    "featured": false,
+    "releaseDate": "2025-06-04"
+  },
+  {
+    "id": "881f34b6-47e7-489d-a0ed-bb75cea797b0",
+    "slug": "oakley-gloves-series-4-90",
+    "sku": "OAK-APP-2652",
+    "name": "Oakley Gloves Series 4",
+    "brand": "Oakley",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Gloves",
+    "price": 42845.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality gloves designed for maximum performance.",
+    "description": "The Oakley Gloves Series 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Gloves geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Gloss White",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1294g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Oakley+Gloves",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "gloves",
+      "oakley"
+    ],
+    "badges": [],
+    "rating": 4.2,
+    "reviewCount": 175,
+    "stock": 5,
+    "featured": false,
+    "releaseDate": "2025-01-12"
+  },
+  {
+    "id": "7364de5a-b0e2-4046-9539-46485c54794a",
+    "slug": "trek-road-s-works-7-91",
+    "sku": "TRE-BIK-2378",
+    "name": "Trek Road S-Works 7",
+    "brand": "Trek",
+    "productType": "bike",
+    "category": "Bike",
+    "subcategory": "Road",
+    "price": 10824.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Trek Road S-Works 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L",
+      "61",
+      "49",
+      "XL"
+    ],
+    "colors": [
+      "Forest Green",
+      "Deep Sea Blue"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6585g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Trek+Road",
+      "gallery": []
+    },
+    "tags": [
+      "bike",
+      "road",
+      "trek"
+    ],
+    "badges": [],
+    "rating": 4.3,
+    "reviewCount": 470,
+    "stock": 54,
+    "featured": false,
+    "releaseDate": "2025-10-08"
+  },
+  {
+    "id": "8866badd-6383-4d2e-adec-b45d58f35d97",
+    "slug": "bianchi-handlebars-pro-1-92",
+    "sku": "BIA-COM-2332",
+    "name": "Bianchi Handlebars Pro 1",
+    "brand": "Bianchi",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Handlebars",
+    "price": 5110.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality handlebars designed for maximum performance.",
+    "description": "The Bianchi Handlebars Pro 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Handlebars geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Electric Red",
+      "Raw Carbon",
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1662g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Bianchi+Handlebars",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "handlebars",
+      "bianchi"
+    ],
+    "badges": [],
+    "rating": 4.1,
+    "reviewCount": 258,
+    "stock": 80,
+    "featured": false,
+    "releaseDate": "2025-01-25"
+  },
+  {
+    "id": "7b82fff2-d58c-4df4-aa78-726a8e865a4d",
+    "slug": "giant-bottles-sl-4-93",
+    "sku": "GIA-ACC-7233",
+    "name": "Giant Bottles SL 4",
+    "brand": "Giant",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Bottles",
+    "price": 12674.9,
+    "compareAtPrice": 15209.88,
+    "currency": "BRL",
+    "shortDescription": "High-quality bottles designed for maximum performance.",
+    "description": "The Giant Bottles SL 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bottles geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Gloss White",
+      "Stealth Grey",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3694g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Bottles",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "bottles",
+      "giant"
+    ],
+    "badges": [],
+    "rating": 5.0,
+    "reviewCount": 136,
+    "stock": 0,
+    "featured": false,
+    "releaseDate": "2025-02-17"
+  },
+  {
+    "id": "c8d2b191-492b-4ded-ba92-3727ba35e477",
+    "slug": "bianchi-mtb-expert-7-94",
+    "sku": "BIA-HEL-5075",
+    "name": "Bianchi MTB Expert 7",
+    "brand": "Bianchi",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "MTB",
+    "price": 1676.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality mtb designed for maximum performance.",
+    "description": "The Bianchi MTB Expert 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced MTB geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S"
+    ],
+    "colors": [
+      "Electric Red",
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4232g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Bianchi+MTB",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "mtb",
+      "bianchi"
+    ],
+    "badges": [],
+    "rating": 4.9,
+    "reviewCount": 206,
+    "stock": 91,
+    "featured": false,
+    "releaseDate": "2025-11-07"
+  },
+  {
+    "id": "e393c99d-cbf9-4751-b799-b60dbd68fa44",
+    "slug": "giro-handlebars-expert-2-95",
+    "sku": "GIR-COM-9520",
+    "name": "Giro Handlebars Expert 2",
+    "brand": "Giro",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Handlebars",
+    "price": 38066.9,
+    "compareAtPrice": 45680.28,
+    "currency": "BRL",
+    "shortDescription": "High-quality handlebars designed for maximum performance.",
+    "description": "The Giro Handlebars Expert 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Handlebars geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4668g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giro+Handlebars",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "handlebars",
+      "giro"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 340,
+    "stock": 2,
+    "featured": false,
+    "releaseDate": "2025-10-27"
+  },
+  {
+    "id": "0d12d39d-3aee-44ac-ac85-93416cbafd5d",
+    "slug": "colnago-mtb-elite-2-96",
+    "sku": "COL-SHO-6085",
+    "name": "Colnago MTB Elite 2",
+    "brand": "Colnago",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "MTB",
+    "price": 49423.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality mtb designed for maximum performance.",
+    "description": "The Colnago MTB Elite 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced MTB geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "41",
+      "45",
+      "44"
+    ],
+    "colors": [
+      "Forest Green",
+      "Stealth Grey"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1354g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Colnago+MTB",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "mtb",
+      "colnago"
+    ],
+    "badges": [],
+    "rating": 4.5,
+    "reviewCount": 363,
+    "stock": 58,
+    "featured": false,
+    "releaseDate": "2025-03-16"
+  },
+  {
+    "id": "6802ff05-5094-4eee-8fb4-62d0fd83dc71",
+    "slug": "prowell-cleaning-team-8-97",
+    "sku": "PRO-MAI-6439",
+    "name": "Prowell Cleaning Team 8",
+    "brand": "Prowell",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 329.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Prowell Cleaning Team 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Deep Sea Blue",
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6415g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Prowell+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "prowell"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 176,
+    "stock": 72,
+    "featured": true,
+    "releaseDate": "2025-01-26"
+  },
+  {
+    "id": "7d64f08a-d271-4b60-afb8-1579496dfae4",
+    "slug": "bianchi-wheelsets-team-2-98",
+    "sku": "BIA-COM-7990",
+    "name": "Bianchi Wheelsets Team 2",
+    "brand": "Bianchi",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Wheelsets",
+    "price": 30466.9,
+    "compareAtPrice": 36560.28,
+    "currency": "BRL",
+    "shortDescription": "High-quality wheelsets designed for maximum performance.",
+    "description": "The Bianchi Wheelsets Team 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Wheelsets geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3260g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Bianchi+Wheelsets",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "wheelsets",
+      "bianchi"
+    ],
+    "badges": [],
+    "rating": 4.0,
+    "reviewCount": 466,
+    "stock": 66,
+    "featured": false,
+    "releaseDate": "2025-05-23"
+  },
+  {
+    "id": "f4634a68-85c6-414a-9007-042ca6ff0fa3",
+    "slug": "prowell-road-team-7-99",
+    "sku": "PRO-SHO-6068",
+    "name": "Prowell Road Team 7",
+    "brand": "Prowell",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "Road",
+    "price": 26624.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Prowell Road Team 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "42",
+      "45",
+      "43"
+    ],
+    "colors": [
+      "Forest Green",
+      "Raw Carbon",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "882g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Prowell+Road",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "road",
+      "prowell"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.2,
+    "reviewCount": 183,
+    "stock": 58,
+    "featured": false,
+    "releaseDate": "2025-05-08"
+  },
+  {
+    "id": "67b124e0-618b-41c6-81ed-d9670db7834c",
+    "slug": "giant-mtb-sl-1-100",
+    "sku": "GIA-SHO-3462",
+    "name": "Giant MTB SL 1",
+    "brand": "Giant",
+    "productType": "shoe",
+    "category": "Shoe",
+    "subcategory": "MTB",
+    "price": 33032.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality mtb designed for maximum performance.",
+    "description": "The Giant MTB SL 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced MTB geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "38"
+    ],
+    "colors": [
+      "Raw Carbon",
+      "Stealth Grey",
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8412g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+MTB",
+      "gallery": []
+    },
+    "tags": [
+      "shoe",
+      "mtb",
+      "giant"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.1,
+    "reviewCount": 388,
+    "stock": 41,
+    "featured": false,
+    "releaseDate": "2025-01-19"
+  },
+  {
+    "id": "08016bea-a515-4c31-bf79-ca5338880051",
+    "slug": "oakley-bottles-pro-1-101",
+    "sku": "OAK-ACC-3882",
+    "name": "Oakley Bottles Pro 1",
+    "brand": "Oakley",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Bottles",
+    "price": 33067.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality bottles designed for maximum performance.",
+    "description": "The Oakley Bottles Pro 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bottles geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3135g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Oakley+Bottles",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "bottles",
+      "oakley"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.6,
+    "reviewCount": 325,
+    "stock": 51,
+    "featured": true,
+    "releaseDate": "2025-02-22"
+  },
+  {
+    "id": "4462a7ba-f14e-4d14-920d-fe06c06f9ad0",
+    "slug": "bianchi-bags-sl-5-102",
+    "sku": "BIA-ACC-4559",
+    "name": "Bianchi Bags SL 5",
+    "brand": "Bianchi",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Bags",
+    "price": 48009.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality bags designed for maximum performance.",
+    "description": "The Bianchi Bags SL 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bags geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Forest Green",
+      "Raw Carbon",
+      "Deep Sea Blue"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3936g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Bianchi+Bags",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "bags",
+      "bianchi"
+    ],
+    "badges": [],
+    "rating": 4.0,
+    "reviewCount": 8,
+    "stock": 80,
+    "featured": false,
+    "releaseDate": "2025-04-03"
+  },
+  {
+    "id": "276b8225-1b62-44c0-9a05-e7046cfdc20d",
+    "slug": "colnago-mtb-sl-9-103",
+    "sku": "COL-HEL-2106",
+    "name": "Colnago MTB SL 9",
+    "brand": "Colnago",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "MTB",
+    "price": 1934.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality mtb designed for maximum performance.",
+    "description": "The Colnago MTB SL 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced MTB geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Forest Green"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3248g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Colnago+MTB",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "mtb",
+      "colnago"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.5,
+    "reviewCount": 436,
+    "stock": 67,
+    "featured": false,
+    "releaseDate": "2025-12-06"
+  },
+  {
+    "id": "b5ac9abf-bbbe-47f5-82f1-22251977b5ca",
+    "slug": "pinarello-socks-pro-1-104",
+    "sku": "PIN-APP-6554",
+    "name": "Pinarello Socks Pro 1",
+    "brand": "Pinarello",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Socks",
+    "price": 45744.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality socks designed for maximum performance.",
+    "description": "The Pinarello Socks Pro 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Socks geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "M",
+      "S",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7010g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Socks",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "socks",
+      "pinarello"
+    ],
+    "badges": [],
+    "rating": 4.1,
+    "reviewCount": 162,
+    "stock": 5,
+    "featured": false,
+    "releaseDate": "2025-11-03"
+  },
+  {
+    "id": "0ca5c608-ddb7-40b8-bef2-e9f01a4fe13f",
+    "slug": "pinarello-tools-series-6-105",
+    "sku": "PIN-MAI-9271",
+    "name": "Pinarello Tools Series 6",
+    "brand": "Pinarello",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Tools",
+    "price": 343.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality tools designed for maximum performance.",
+    "description": "The Pinarello Tools Series 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Tools geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Deep Sea Blue",
+      "Stealth Grey",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6434g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Tools",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "tools",
+      "pinarello"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 477,
+    "stock": 88,
+    "featured": false,
+    "releaseDate": "2025-07-22"
+  },
+  {
+    "id": "d387e32d-7243-4a74-9d5e-af4e2f657e9c",
+    "slug": "garmin-cleaning-pro-9-106",
+    "sku": "GAR-MAI-1863",
+    "name": "Garmin Cleaning Pro 9",
+    "brand": "Garmin",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Cleaning",
+    "price": 245.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality cleaning designed for maximum performance.",
+    "description": "The Garmin Cleaning Pro 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Cleaning geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1374g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Garmin+Cleaning",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "cleaning",
+      "garmin"
+    ],
+    "badges": [],
+    "rating": 4.7,
+    "reviewCount": 392,
+    "stock": 74,
+    "featured": false,
+    "releaseDate": "2025-03-27"
+  },
+  {
+    "id": "1207c169-d624-4652-9113-39cf6b206c5b",
+    "slug": "scott-handlebars-sl-8-107",
+    "sku": "SCO-COM-9309",
+    "name": "Scott Handlebars SL 8",
+    "brand": "Scott",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Handlebars",
+    "price": 38195.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality handlebars designed for maximum performance.",
+    "description": "The Scott Handlebars SL 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Handlebars geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2886g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Scott+Handlebars",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "handlebars",
+      "scott"
+    ],
+    "badges": [],
+    "rating": 4.0,
+    "reviewCount": 193,
+    "stock": 42,
+    "featured": false,
+    "releaseDate": "2025-07-12"
+  },
+  {
+    "id": "c1f7136e-76dc-4962-bbf1-0e364d25c2aa",
+    "slug": "colnago-saddles-expert-2-108",
+    "sku": "COL-COM-7699",
+    "name": "Colnago Saddles Expert 2",
+    "brand": "Colnago",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Saddles",
+    "price": 44976.9,
+    "compareAtPrice": 53972.28,
+    "currency": "BRL",
+    "shortDescription": "High-quality saddles designed for maximum performance.",
+    "description": "The Colnago Saddles Expert 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Saddles geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Raw Carbon",
+      "Deep Sea Blue"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8475g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Colnago+Saddles",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "saddles",
+      "colnago"
+    ],
+    "badges": [],
+    "rating": 4.4,
+    "reviewCount": 281,
+    "stock": 72,
+    "featured": false,
+    "releaseDate": "2025-12-23"
+  },
+  {
+    "id": "196556e2-3611-4275-aaca-ffe573401c18",
+    "slug": "cannondale-tools-series-7-109",
+    "sku": "CAN-MAI-5859",
+    "name": "Cannondale Tools Series 7",
+    "brand": "Cannondale",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Tools",
+    "price": 59.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality tools designed for maximum performance.",
+    "description": "The Cannondale Tools Series 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Tools geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Forest Green",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7687g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cannondale+Tools",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "tools",
+      "cannondale"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.9,
+    "reviewCount": 87,
+    "stock": 32,
+    "featured": false,
+    "releaseDate": "2025-05-27"
+  },
+  {
+    "id": "52df854a-5944-4fc0-b3ac-f148837b2660",
+    "slug": "trek-bags-series-7-110",
+    "sku": "TRE-ACC-7025",
+    "name": "Trek Bags Series 7",
+    "brand": "Trek",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Bags",
+    "price": 32265.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality bags designed for maximum performance.",
+    "description": "The Trek Bags Series 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bags geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Raw Carbon",
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2909g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Trek+Bags",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "bags",
+      "trek"
+    ],
+    "badges": [],
+    "rating": 4.5,
+    "reviewCount": 120,
+    "stock": 35,
+    "featured": false,
+    "releaseDate": "2025-05-02"
+  },
+  {
+    "id": "f2a23b09-f34a-4c05-9d4c-57205239735f",
+    "slug": "pinarello-wheelsets-pro-1-111",
+    "sku": "PIN-COM-8952",
+    "name": "Pinarello Wheelsets Pro 1",
+    "brand": "Pinarello",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Wheelsets",
+    "price": 45650.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality wheelsets designed for maximum performance.",
+    "description": "The Pinarello Wheelsets Pro 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Wheelsets geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Matte Black",
+      "Forest Green",
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "5224g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Wheelsets",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "wheelsets",
+      "pinarello"
+    ],
+    "badges": [],
+    "rating": 4.4,
+    "reviewCount": 315,
+    "stock": 43,
+    "featured": false,
+    "releaseDate": "2025-08-28"
+  },
+  {
+    "id": "cae6c862-4a87-404f-addd-d927eafa8168",
+    "slug": "sram-bib-shorts-sl-4-112",
+    "sku": "SRA-APP-3032",
+    "name": "SRAM Bib Shorts SL 4",
+    "brand": "SRAM",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Bib Shorts",
+    "price": 31060.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality bib shorts designed for maximum performance.",
+    "description": "The SRAM Bib Shorts SL 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bib Shorts geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "XS",
+      "XXL",
+      "S",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1069g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=SRAM+Bib Shorts",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "bib shorts",
+      "sram"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.0,
+    "reviewCount": 192,
+    "stock": 55,
+    "featured": false,
+    "releaseDate": "2025-04-21"
+  },
+  {
+    "id": "02650fcf-8644-408e-ab0c-295216088ef9",
+    "slug": "trek-lubricants-team-3-113",
+    "sku": "TRE-MAI-7055",
+    "name": "Trek Lubricants Team 3",
+    "brand": "Trek",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Lubricants",
+    "price": 108.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality lubricants designed for maximum performance.",
+    "description": "The Trek Lubricants Team 3 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Lubricants geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Matte Black",
+      "Deep Sea Blue",
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "6983g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Trek+Lubricants",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "lubricants",
+      "trek"
+    ],
+    "badges": [],
+    "rating": 5.0,
+    "reviewCount": 227,
+    "stock": 27,
+    "featured": true,
+    "releaseDate": "2025-12-24"
+  },
+  {
+    "id": "6c8803ba-4c0d-4a1d-b29e-e363d5107729",
+    "slug": "sram-gravel-team-8-114",
+    "sku": "SRA-BIK-4461",
+    "name": "SRAM Gravel Team 8",
+    "brand": "SRAM",
+    "productType": "bike",
+    "category": "Bike",
+    "subcategory": "Gravel",
+    "price": 11402.9,
+    "compareAtPrice": 13683.48,
+    "currency": "BRL",
+    "shortDescription": "High-quality gravel designed for maximum performance.",
+    "description": "The SRAM Gravel Team 8 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Gravel geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S",
+      "58",
+      "49",
+      "56",
+      "XL"
+    ],
+    "colors": [
+      "Hyper Orange",
+      "Deep Sea Blue",
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4800g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=SRAM+Gravel",
+      "gallery": []
+    },
+    "tags": [
+      "bike",
+      "gravel",
+      "sram"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.1,
+    "reviewCount": 90,
+    "stock": 96,
+    "featured": false,
+    "releaseDate": "2025-09-03"
+  },
+  {
+    "id": "4f5e3622-9745-4716-9589-e94d6e5eb458",
+    "slug": "pinarello-bib-shorts-team-2-115",
+    "sku": "PIN-APP-3669",
+    "name": "Pinarello Bib Shorts Team 2",
+    "brand": "Pinarello",
+    "productType": "apparel",
+    "category": "Apparel",
+    "subcategory": "Bib Shorts",
+    "price": 22077.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality bib shorts designed for maximum performance.",
+    "description": "The Pinarello Bib Shorts Team 2 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bib Shorts geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "Deep Sea Blue"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7423g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Bib Shorts",
+      "gallery": []
+    },
+    "tags": [
+      "apparel",
+      "bib shorts",
+      "pinarello"
+    ],
+    "badges": [
+      "New Arrival"
+    ],
+    "rating": 4.0,
+    "reviewCount": 124,
+    "stock": 10,
+    "featured": false,
+    "releaseDate": "2025-02-08"
+  },
+  {
+    "id": "d5284f47-d16c-4273-aabf-142a2eced1e1",
+    "slug": "prowell-bags-elite-7-116",
+    "sku": "PRO-ACC-3937",
+    "name": "Prowell Bags Elite 7",
+    "brand": "Prowell",
+    "productType": "accessory",
+    "category": "Accessory",
+    "subcategory": "Bags",
+    "price": 24519.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality bags designed for maximum performance.",
+    "description": "The Prowell Bags Elite 7 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Bags geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "colors": [
+      "Gloss White"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "3522g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Prowell+Bags",
+      "gallery": []
+    },
+    "tags": [
+      "accessory",
+      "bags",
+      "prowell"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 488,
+    "stock": 12,
+    "featured": true,
+    "releaseDate": "2025-10-25"
+  },
+  {
+    "id": "bc7e93fe-54f6-4ff6-a5b3-20813ca47a15",
+    "slug": "cannondale-road-expert-5-117",
+    "sku": "CAN-HEL-2438",
+    "name": "Cannondale Road Expert 5",
+    "brand": "Cannondale",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Road",
+    "price": 539.9,
+    "compareAtPrice": 647.88,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Cannondale Road Expert 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "L"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "5973g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Cannondale+Road",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "road",
+      "cannondale"
+    ],
+    "badges": [],
+    "rating": 4.3,
+    "reviewCount": 53,
+    "stock": 7,
+    "featured": false,
+    "releaseDate": "2025-03-19"
+  },
+  {
+    "id": "c2ee1c5b-49eb-45e9-8adc-8ec71d8cce1e",
+    "slug": "giant-road-pro-4-118",
+    "sku": "GIA-BIK-2355",
+    "name": "Giant Road Pro 4",
+    "brand": "Giant",
+    "productType": "bike",
+    "category": "Bike",
+    "subcategory": "Road",
+    "price": 6311.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Giant Road Pro 4 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "52",
+      "XL",
+      "61",
+      "S"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Matte Black"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "4942g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Road",
+      "gallery": []
+    },
+    "tags": [
+      "bike",
+      "road",
+      "giant"
+    ],
+    "badges": [],
+    "rating": 4.6,
+    "reviewCount": 294,
+    "stock": 27,
+    "featured": false,
+    "releaseDate": "2025-05-03"
+  },
+  {
+    "id": "8bc9b16b-1a41-42f8-87ac-59feae726a1e",
+    "slug": "giant-tools-pro-5-119",
+    "sku": "GIA-MAI-3888",
+    "name": "Giant Tools Pro 5",
+    "brand": "Giant",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Tools",
+    "price": 137.9,
+    "compareAtPrice": 165.48,
+    "currency": "BRL",
+    "shortDescription": "High-quality tools designed for maximum performance.",
+    "description": "The Giant Tools Pro 5 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Tools geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Electric Red",
+      "Raw Carbon",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "1958g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Giant+Tools",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "tools",
+      "giant"
+    ],
+    "badges": [],
+    "rating": 4.9,
+    "reviewCount": 369,
+    "stock": 72,
+    "featured": false,
+    "releaseDate": "2025-03-12"
+  },
+  {
+    "id": "a10635a5-c4f8-48ae-8f78-7cfcd5502d73",
+    "slug": "colnago-drivetrain-expert-9-120",
+    "sku": "COL-COM-7398",
+    "name": "Colnago Drivetrain Expert 9",
+    "brand": "Colnago",
+    "productType": "component",
+    "category": "Component",
+    "subcategory": "Drivetrain",
+    "price": 32275.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality drivetrain designed for maximum performance.",
+    "description": "The Colnago Drivetrain Expert 9 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Drivetrain geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Universal"
+    ],
+    "colors": [
+      "Deep Sea Blue",
+      "Raw Carbon",
+      "Hyper Orange"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "2453g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Colnago+Drivetrain",
+      "gallery": []
+    },
+    "tags": [
+      "component",
+      "drivetrain",
+      "colnago"
+    ],
+    "badges": [],
+    "rating": 4.9,
+    "reviewCount": 253,
+    "stock": 24,
+    "featured": false,
+    "releaseDate": "2025-07-06"
+  },
+  {
+    "id": "67977c6c-e18c-4faa-bfb9-bdaaab92d3f9",
+    "slug": "prowell-road-expert-1-121",
+    "sku": "PRO-HEL-1524",
+    "name": "Prowell Road Expert 1",
+    "brand": "Prowell",
+    "productType": "helmet",
+    "category": "Helmet",
+    "subcategory": "Road",
+    "price": 2043.9,
+    "compareAtPrice": 2452.68,
+    "currency": "BRL",
+    "shortDescription": "High-quality road designed for maximum performance.",
+    "description": "The Prowell Road Expert 1 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Road geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "S",
+      "L"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Deep Sea Blue",
+      "Raw Carbon"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "8334g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Prowell+Road",
+      "gallery": []
+    },
+    "tags": [
+      "helmet",
+      "road",
+      "prowell"
+    ],
+    "badges": [],
+    "rating": 4.3,
+    "reviewCount": 386,
+    "stock": 10,
+    "featured": true,
+    "releaseDate": "2025-09-27"
+  },
+  {
+    "id": "dcef726c-552e-4086-a3ac-e97c8dc4edb0",
+    "slug": "pinarello-lubricants-sl-6-122",
+    "sku": "PIN-MAI-2474",
+    "name": "Pinarello Lubricants SL 6",
+    "brand": "Pinarello",
+    "productType": "maintenance",
+    "category": "Maintenance",
+    "subcategory": "Lubricants",
+    "price": 387.9,
+    "compareAtPrice": null,
+    "currency": "BRL",
+    "shortDescription": "High-quality lubricants designed for maximum performance.",
+    "description": "The Pinarello Lubricants SL 6 represents the pinnacle of cycling engineering. Crafted with precision materials and tested in the most demanding conditions, it delivers unparalleled efficiency and reliability for the modern cyclist.",
+    "features": [
+      "Advanced Lubricants geometry",
+      "Lightweight construction",
+      "Precision engineered"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "colors": [
+      "Stealth Grey",
+      "Electric Red"
+    ],
+    "specs": {
+      "Material": "Carbon Fiber",
+      "Weight": "7254g"
+    },
+    "images": {
+      "main": "https://placehold.co/600x600/121212/FFFFFF?text=Pinarello+Lubricants",
+      "gallery": []
+    },
+    "tags": [
+      "maintenance",
+      "lubricants",
+      "pinarello"
+    ],
+    "badges": [],
+    "rating": 4.1,
+    "reviewCount": 368,
+    "stock": 0,
+    "featured": false,
+    "releaseDate": "2025-01-19"
+  }
+]
