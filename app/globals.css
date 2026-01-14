@@ -6,8 +6,8 @@
   --color-surface-muted: #1A1A1A;
   --color-border-subtle: #2A2A2A;
   
-  --font-display: "Satoshi", var(--font-geist-sans);
-  --font-body: var(--font-geist-sans);
+  --font-display: "Satoshi", "Inter", system-ui, sans-serif;
+  --font-sans: "Inter", system-ui, sans-serif;
 
   --breakpoint-xs: 375px;
   --breakpoint-2xl: 1440px;
