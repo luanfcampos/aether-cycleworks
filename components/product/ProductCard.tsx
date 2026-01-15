@@ -45,11 +45,11 @@ export function ProductCard({ product }: ProductCardProps) {
       {/* Image Container */}
       <Link
         href={`/produto/${product.slug}`}
-        className="relative aspect-square overflow-hidden bg-zinc-900"
+        className="relative aspect-square overflow-hidden bg-white"
       >
         <ProductImage 
           product={product} 
-          className="transition-transform duration-700 group-hover:scale-110 opacity-80 group-hover:opacity-100" 
+          className="transition-transform duration-700 group-hover:scale-110 " 
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-6">
           <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-white">

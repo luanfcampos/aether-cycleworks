@@ -1,7 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Configurações mantidas para caso assets locais sejam adicionados via path padrão
+  // Nenhuma configuração de imagem remota é necessária por enquanto,
+  // pois todos os assets serão servidos localmente.
 };
 
 export default nextConfig;
