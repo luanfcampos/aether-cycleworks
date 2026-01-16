@@ -3,13 +3,14 @@ import { ProductCard } from "./ProductCard";
 
 interface ProductGridProps {
   products: Product[];
+  onOpenFilters?: () => void;
 }
 
-export function ProductGrid({ products }: ProductGridProps) {
+export function ProductGrid({ products, onOpenFilters }: ProductGridProps) {
   return (
     <section className="py-24 bg-black">
-      <div className="container mx-auto px-6">
-        <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
+      <div className="mb-16">
+        <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-8">
           <div>
             <h2 className="text-sm font-bold uppercase tracking-[0.3em] text-brand mb-4">
               Featured Equipment
@@ -23,11 +24,23 @@ export function ProductGrid({ products }: ProductGridProps) {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-x-px gap-y-px bg-border-subtle border-y border-border-subtle overflow-hidden">
-          {products.map((product) => (
-            <ProductCard key={product.id} product={product} />
-          ))}
-        </div>
+        {/* Botão de Filtros EMBAIXO do bloco de título em mobile */}
+        {onOpenFilters && (
+          <div className="lg:hidden">
+            <button
+              onClick={onOpenFilters}
+              className="w-full sm:w-auto px-8 py-3 border border-zinc-800 text-white font-bold uppercase tracking-widest text-[10px] hover:bg-zinc-900 transition-colors"
+            >
+              Filtros
+            </button>
+          </div>
+        )}
+      </div>
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-x-px gap-y-px bg-border-subtle border-y border-border-subtle overflow-hidden">
+        {products.map((product) => (
+          <ProductCard key={product.id} product={product} />
+        ))}
       </div>
     </section>
   );

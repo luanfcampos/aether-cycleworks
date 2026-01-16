@@ -94,9 +94,9 @@ export function ProductImage({ product, className }: ProductImageProps) {
             alt={product.name}
             fill
             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
-            className={`object-cover transition-all duration-700 ${loading ? 'opacity-0 scale-105' : 'opacity-100 scale-100'}`}
-            onLoadingComplete={(img) => {
-              if (img.naturalWidth < 100) setError(true); // Detecta imagens corrompidas de 29 bytes
+            className={`object-contain transition-all duration-700 ${loading ? 'opacity-0 scale-105' : 'opacity-100 scale-100'}`}
+            onLoad={(img) => {
+              if (img.currentTarget.naturalWidth < 100) setError(true);
               setLoading(false);
             }}
             onError={() => setError(true)}

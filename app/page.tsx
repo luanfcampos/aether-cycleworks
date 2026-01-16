@@ -1,5 +1,8 @@
-import { Suspense } from "react";
+"use client";
+
+import { Suspense, useState } from "react";
 import { FilterSidebar } from "@/components/filters/FilterSidebar";
+import { MobileFilterDrawer } from "@/components/filters/MobileFilterDrawer";
 import { Hero } from "@/components/layout/Hero";
 import { ProductGrid } from "@/components/product/ProductGrid";
 import { getAllProducts } from "@/lib/products";
@@ -10,6 +13,7 @@ function FilterSidebarSkeleton() {
 
 export default function Home() {
   const products = getAllProducts();
+  const [isMobileDrawerOpen, setIsMobileDrawerOpen] = useState(false);
   
   // A lógica de filtragem final virá na próxima etapa
   const displayedProducts = products;
@@ -17,15 +21,26 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <main className="container mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 lg:grid-cols-4 xl:grid-cols-5 gap-8">
-          <div className="lg:col-span-1">
+      <main className="container mx-auto px-4 sm:px-6 lg:px-8">
+        <MobileFilterDrawer
+          isOpen={isMobileDrawerOpen}
+          onClose={() => setIsMobileDrawerOpen(false)}
+        />
+
+        <div className="grid grid-cols-1 lg:grid-cols-[280px_1fr] xl:grid-cols-[320px_1fr] gap-8">
+          {/* Sidebar para telas grandes */}
+          <div className="hidden lg:block lg:col-span-1 pt-24">
             <Suspense fallback={<FilterSidebarSkeleton />}>
               <FilterSidebar />
             </Suspense>
           </div>
-          <div className="lg:col-span-3 xl:col-span-4">
-            <ProductGrid products={displayedProducts} />
+          
+          {/* Área de Produtos */}
+          <div className="lg:col-start-2">
+            <ProductGrid 
+              products={displayedProducts} 
+              onOpenFilters={() => setIsMobileDrawerOpen(true)}
+            />
           </div>
         </div>
       </main>
