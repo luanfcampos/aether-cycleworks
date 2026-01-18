@@ -44,10 +44,15 @@ export function useQueryFilters() {
     [searchParams]
   );
 
+  const clearFilters = useCallback(() => {
+    router.replace(pathname, { scroll: false });
+  }, [pathname, router]);
+
   return {
     searchParams,
     setSingleQuery,
     toggleArrayQuery,
-    getQueryArray
+    getQueryArray,
+    clearFilters
   };
 }

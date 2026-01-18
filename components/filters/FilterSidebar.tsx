@@ -5,19 +5,27 @@ import { SearchFilter } from "./SearchFilter";
 import { SortFilter } from "./SortFilter";
 import { CheckboxFilter } from "./CheckboxFilter";
 import { Accordion } from "../ui/Accordion";
+import { useQueryFilters } from "@/hooks/useQueryFilters";
 
 export function FilterSidebar() {
   const products = getAllProducts();
-  const brands = [...new Set(products.map((p) => p.brand))];
-  const categories = [...new Set(products.map((p) => p.category))];
-  const subcategories = [...new Set(products.map((p) => p.subcategory))];
+  const { clearFilters } = useQueryFilters();
+  
+  const brands = [...new Set(products.map((p) => p.brand))].sort();
+  const categories = [...new Set(products.map((p) => p.category))].sort();
+  const subcategories = [...new Set(products.map((p) => p.subcategory))].sort();
 
   return (
     <div className="space-y-8">
       {/* Cabeçalho Desktop */}
       <div className="hidden lg:flex items-center justify-between border-b border-border-subtle pb-4">
         <h2 className="text-lg font-bold uppercase tracking-wider font-display italic">Filtros</h2>
-        <button className="text-xs font-semibold text-zinc-500 hover:text-brand transition-colors">Limpar tudo</button>
+        <button 
+          onClick={clearFilters}
+          className="text-xs font-semibold text-zinc-500 hover:text-brand transition-colors"
+        >
+          Limpar tudo
+        </button>
       </div>
       
       {/* Filtros Primários - SEMPRE EXPOSTOS */}
